@@ -14,7 +14,7 @@ git log --pretty=format:'[%h] %an %ad %s' --date=short --numstat --before=2013-0
 Report should consist of:
 
 1.	Repo description and rough number of files (hint the summary shown in the lecture).
-1.	Timeframe chosen for analysis.  Try to limit the epoch of analysis to be no longer than a year.  Your repo may vary, so this is suggestion.  If you use the entire history, please give an justification of why.  Submit to (https://github.com/olekaspt/SA_Assignment01/blob/main/RepoAnalayzed.txt) your choice ASAP, as each group must evaluate a unique repo and time period
+1.	Timeframe chosen for analysis.  Try to limit the epoch of analysis to be no longer than a year.  Your repo may vary, so this is suggestion.  If you use the entire history, please give an justification of why.  
 1.	Perform the analysis that was done in Case Study 1 – Effort as frequency, and complexity as Lines of Code (LOC).  And then use merge_comp_freqs.py 
 Show the top 20 hits.  And then show top ten potential TD hotspots of that 20 using Names a guideline (i.e. skip the readme and build files). [This data to be analyzed will be file commit frequency, LOC]
 A spreadsheet snippet, and using highlighting would make this easier to report 😊
