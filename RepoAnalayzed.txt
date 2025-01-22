@@ -1,0 +1,39 @@
+# Repos and timeframes analyzed
+
+# Spring 2023
+Example:
+* https://github.com/olekaspt/SoftwareArchitectureCLassApplication Jan 2021 - Dec 2022 - Group -1
+
+Please use a bullet and then repo link, and timeframe
+Spring 23 class
+* https://github.com/microsoft/vscode December 2022 (1 month) group 29
+* https://github.com/blender/blender December 2022 (1 month) group 17
+* https://github.com/mozilla/gecko-dev Jan 2023 (18 days) - Group 18
+* https://github.com/Netflix/zuul Jan2023 (1 month) - Group 34
+* https://github.com/facebook/react July 2022 - December 2022 (6 months) group 9
+* https://github.com/facebook/react 06/2019 - 12/2019 (6 months) group 24
+* https://github.com/yoctoproject/poky Jan 2010 - Jan 2012 (2 Years) - Group 4
+* https://github.com/microsoft/terminal Jan 2020-May 2020 (5 months) group 16
+* https://github.com/apple/swift/graphs/code-frequency Jan 2019 - Jan 2021 group 30
+* https://github.com/apple/swift Dec 2022 - January 2023 (1 month) group 11
+* https://github.com/kubernetes/kubernetes/pulse November 2022 (2 monthes) Group 2
+* https://github.com/ansible/ansible Jan. 25 2022 - Jan. 13 2023   (Group 14)
+* https://github.com/gitbucket/gitbucket Jan 2022 to Dec 2022(11 months) group 20
+* https://github.com/tensorflow/tensorflow (Week of Aug 28th 2021) Group 1 
+* https://github.com/blender/blender December 2022 (1 month) group 17
+* https://github.com/mozilla/gecko-dev Jan 2023 (18 days) - Group 18
+* https://github.com/mozilla/addons-release-tests January 2022 (5 month) group 5
+* https://github.com/zmap/zgrab2 (2017-18) - Group 12
+* https://github.com/freeCodeCamp/freeCodeCamp - Group 22(1 year)
+* https://github.com/pointfreeco/swift-composable-architecture - Group 23
+* https://github.com/oxygen-updater/oxygen-updater/graphs/code-frequency (3 weeks ago) - Group 6
+* https://github.com/angular/angular-cli December 2022 (1 month) - Group 10
+* https://github.com/polekas55/SA_Assignment01/blob/main/RepoAnalayzed.txt3(1month) - Group 21  (this doesn't feel right)
+* https://github.com/PierreSenellart/provsql Jul 17, 2016 – Jan 18, 2023 - Group 27
+* https://github.com/JuliaLang/julia January 2018 (1 month) group 25
+
+Spring 24 class
+Please use a bullet and then repo link, and timeframe
+* https://github.com/XXX December 2021 (1 month) group XXX
+
+
